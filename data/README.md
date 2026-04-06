@@ -1,6 +1,6 @@
 # Data folder
 
-This folder contains the sample business data used in Week 1 discovery and ROI modelling.
+This folder contains a small sample of business data used in Week 1 discovery and ROI modelling. Contact your coach for more detailed information.
 
 ## Files in this folder
 
